@@ -51,6 +51,15 @@ The insights from this analysis can help healthcare organizations:
 - Improve network utilization
 - Support strategic decision-making
 
+
+
+## 📈 Business Impact
+- Identified high-cost procedures contributing to overall claims spend
+- Highlighted cost differences between in-network and out-of-network claims
+- Provided insights that can support pricing strategy and utilization management
+- Demonstrated how data-driven analysis can improve healthcare cost control
+
+
 ---
 
 ## Author
