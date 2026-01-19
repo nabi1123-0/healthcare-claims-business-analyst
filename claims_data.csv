@@ -1,0 +1,11 @@
+member_id,plan_type,procedure_category,claim_amount,network_status,claim_date
+1001,HMO,Primary Care,120,In-Network,2024-01-05
+1002,PPO,Emergency,5400,Out-of-Network,2024-01-08
+1003,EPO,Lab Services,350,In-Network,2024-01-10
+1004,HMO,Imaging,2200,In-Network,2024-01-12
+1005,PPO,Surgery,18500,Out-of-Network,2024-01-15
+1006,EPO,Primary Care,95,In-Network,2024-01-18
+1007,HMO,Emergency,4300,Out-of-Network,2024-01-20
+1008,PPO,Lab Services,400,In-Network,2024-01-22
+1009,EPO,Imaging,2600,In-Network,2024-01-25
+1010,HMO,Surgery,16000,In-Network,2024-01-28
