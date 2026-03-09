@@ -76,6 +76,3 @@ README.md – Project documentation
 ## Author
 **Banngar Nabi**  
 Business Analyst / Data Analyst
-## Author
-**Banngar Nabi**  
-Business Analyst / Data Analyst
